@@ -1,0 +1,19 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore environment variables (if you have .env files)
+.env
+
+# Ignore build directories (e.g. if you're using a build tool like Webpack, Babel, etc.)
+dist/
+build/
+
+# Ignore IDE/editor specific files (e.g. VS Code settings)
+.vscode/
+.idea/
+
+# Ignore dependency lock files (if you prefer to manage them differently)
+package-lock.json
